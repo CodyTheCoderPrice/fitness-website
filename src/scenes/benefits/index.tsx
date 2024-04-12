@@ -19,9 +19,9 @@ const benefits: Array<BenefitType> = [
   },
   {
     icon: <UserGroupIcon className="h-6 w-6" />,
-    title: "100's of Diverse Classes",
+    title: "100's of Unique Classes",
     description:
-      "From cardio, to yoga, to dancing, we offer a wide range of classes. Whether you're a beginner or an expert, we have something you'll enjoy.",
+      "From cardio, to yoga, to dancing, we offer a wide range of classes. Whether you're a beginner or an expert, we have something for you.",
   },
   {
     icon: <AcademicCapIcon className="h-6 w-6" />,
