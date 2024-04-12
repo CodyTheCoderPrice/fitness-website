@@ -65,9 +65,9 @@ const OurClasses = ({ setSelectedPage }: Props) => {
           <div className="md:w-3/5">
             <HText>OUR CLASSES</HText>
             <p className="py-5">
-              We offer unlimated access to group exercise classes included with
-              every membership. Our custom designed classes to give members of
-              any fitness level a challenge.
+              We offer unlimated access to over 100 group exercise classes
+              included with every membership. Our custom designed classes were
+              made to give members of any fitness level a challenge.
             </p>
           </div>
         </motion.div>
